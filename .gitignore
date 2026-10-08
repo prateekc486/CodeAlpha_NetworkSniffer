@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+# your own captures may contain private traffic: keep them out of Git
+capture*.pcap
+*.pcapng
+!sample.pcap
